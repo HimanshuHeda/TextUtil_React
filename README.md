@@ -69,5 +69,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 ## this is my first react project 
+
+# TextUtils 📝  
+
+TextUtils is a simple yet powerful **text manipulation** tool built using **ReactJS**. It provides various functionalities to analyze and modify text efficiently, making it a handy tool for writers, developers, and students.  
+
+## 🚀 Features  
+✅ Convert text to **Uppercase** and **Lowercase**  
+✅ Remove **Extra Spaces** from text  
+✅ **Copy Text** with a single click  
+✅ **Word & Character Count** for quick analysis  
+✅ **Dark Mode Support** for better readability  
+
+## 🛠️ Technologies Used  
+- **ReactJS** ⚛️ (Component-based UI)  
+- **JavaScript (ES6+)** 🔥  
+- **Bootstrap / CSS** 🎨 (Responsive UI)  
+
+## 📌 How to Use  
+1. Enter or paste your text in the input field.  
+2. Choose an action: Convert case, remove spaces, or copy text.  
+3. Get real-time results and text statistics.  
+
+## 🌟 Why TextUtils?  
+- Lightweight and **fast performance**  
+- Simple **UI with a clean user experience**  
+- Helps in **content formatting and text analysis**  
+
+## 📂 Project Link  
+🔗 [GitHub Repository](https://github.com/HimanshuHeda/TextUtils)  
+
+---
+
+📧 **Developed by:** [Himanshu Heda](https://github.com/HimanshuHeda)  
